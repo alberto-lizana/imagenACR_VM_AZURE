@@ -1,0 +1,1 @@
+# imagenACR_VM_AZURE
